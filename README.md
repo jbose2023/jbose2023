@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JOYEETA BOSE</h1>
 <div align="center"> <img src="https://github.com/user-attachments/assets/f923c242-4029-47d8-b60b-f03e9647ef54"> </div>
-<h3 align="center">I'm currently pursuing my Bachelors of Technology under the domain of Compute Science and Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects.
+<h3 align="center">I'm currently pursuing my Bachelors of Technology under the domain of Computer Science and Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects.
 I'm looking for more opportunites to contribute to open source anda trying to learn new tech stacks.</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 
