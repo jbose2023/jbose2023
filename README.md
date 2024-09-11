@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm JOYEETA BOSE</h1>
-<h3 align="center">A passionate software developer from India currently pursuing Computer Science and Information Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw23gCURVjEpezdoPrw21jcL&ust=1726174766577000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICgu6Lku4gDFQAAAAAdAAAAABAE">
+<div align="center"> <img src="https://github.com/user-attachments/assets/a064154a-ec90-47e6-af61-beeef1506380"> </div>
+<h3 align="center">I'm currently pursuing my Bachelors of Technology under the domain of Compute Science and Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects.
+I'm looking for more opportunites to contribute to open source anda trying to learn new tech stacks.</h3>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbose2023&label=Profile%20views&color=0e75b6&style=flat" alt="jbose2023" /> </p>
 
